@@ -1,6 +1,6 @@
 # This is a Task 2
 
-name: CI
+name: CI/CD
 
 on:
  
